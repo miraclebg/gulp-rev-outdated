@@ -1,11 +1,11 @@
 {
-  "name": "gulp-rev-outdated",
+  "name": "gulp-rev-outdated-nimasystems",
   "version": "0.1.1",
-  "description": "Old static asset revision files filter",
+  "description": "Customization of the original gulp-rev-outdated plugin: Old static asset revision files filter",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/shonny-ua/gulp-rev-outdated"
+    "url": "https://github.com/miraclebg/gulp-rev-outdated"
   },
   "author": {
     "name": "Oleksandr Ovcharenko",
@@ -40,7 +40,8 @@
     "clean",
     "cleanup",
     "filtering",
-    "filter"
+    "filter",
+    "nimasystems"
   ],
   "dependencies": {
     "gulp-util": "^3.0.0",
@@ -50,7 +51,7 @@
     "mocha": "*"
   },
   "bugs": {
-    "url": "https://github.com/shonny-ua/gulp-rev-outdated/issues"
+    "url": "https://github.com/miraclebg/gulp-rev-outdated/issues"
   },
-  "homepage": "https://github.com/shonny-ua/gulp-rev-outdated"
+  "homepage": "https://github.com/miraclebg/gulp-rev-outdated"
 }
